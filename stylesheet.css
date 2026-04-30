@@ -132,9 +132,11 @@ p {
 
 img {
     border-radius: 10px;
-    width: 80%;
 }
 
+.widthcontrol img {
+    width: 800px;
+}
 a {
     text-decoration: none;
     color: rgb(173, 213, 232);
